@@ -31,4 +31,5 @@ int main() {
         std::cout << "Invalid operator" << std::endl;
         break;
     }
+
 }
